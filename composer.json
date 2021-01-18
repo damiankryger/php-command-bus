@@ -1,0 +1,13 @@
+{
+    "name": "dkryger/php-command-bus",
+    "description": "A short description of what your package does",
+    "authors": [
+        {
+            "name": "Damian Kryger",
+            "email": "damiankryger@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
