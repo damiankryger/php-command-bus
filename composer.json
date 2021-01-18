@@ -1,6 +1,7 @@
 {
     "name": "dkryger/php-command-bus",
     "description": "A short description of what your package does",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Damian Kryger",
